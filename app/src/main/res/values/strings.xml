@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ByteCoin</string>
+    <string name="Second">В секунду</string>
+    <string name="Click">Клик</string>
+    <string name="shop">Магазин</string>
+    <string name="bought">Куплено: %1d</string>
+    <string name="plusSpeed">%1d к скорости</string>
+    <string name="price">Цена: %1d</string>
+</resources>
